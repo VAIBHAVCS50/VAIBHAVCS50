@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Makhloga</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **vaibhavmakhloga01@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Lxlv42o09hyfSLgXs_p4yeOO615FxXe9/view?usp=sharing](https://drive.google.com/file/d/1Lxlv42o09hyfSLgXs_p4yeOO615FxXe9/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <!-- Add the GIF using the <img> tag -->
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="Designer GIF" width="200">
